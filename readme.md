@@ -15,9 +15,9 @@ Requirements
 
 Installation
 
-    Clone the repository:
+Clone the repository:
 
-    bash
+bash
 
 	git clone https://github.com/yourusername/SystemHealthMonitor.git
 	cd SystemHealthMonitor
