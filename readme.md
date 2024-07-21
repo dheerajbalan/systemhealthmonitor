@@ -33,7 +33,7 @@ Install the required dependencies:
 
 bash
 
-    	pip install psutil
+    pip install psutil
 
 Usage
 
